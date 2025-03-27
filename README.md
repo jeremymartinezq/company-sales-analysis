@@ -66,4 +66,4 @@ The script generates multiple visualizations, including:
 Developed by Jeremy Martinez-Quinones.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see LICENSE file for details.
